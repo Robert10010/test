@@ -11,7 +11,7 @@ public class test : MonoBehaviour
         Debug.Log("This is a test script.");
         Debug.Log("Unity is awesome!");
         Debug.Log("Let's make some games!");
-        Debug.Log("Goodbye, World!");
+
     }
 
     // Update is called once per frame
